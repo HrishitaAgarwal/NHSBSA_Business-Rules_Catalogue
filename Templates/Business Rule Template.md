@@ -11,21 +11,20 @@
 ## 2. Domain Information
 - **Domain Name:** [Domain Name]
 - **Domain Description:** [Brief Description]
-- **Business Owner:** [Business Owner Name]
 - **Stakeholders:** [List of Stakeholders]
 
-## 3. Policy Information (if applicable)
-- **Policy ID:** P001
-- **Policy Name:** [Policy Name]
-- **Policy Description:** [Detailed Description]
+## 3. Rule Definition Information
+- **Rule Definition ID:** P001
+- **Rule Definition Name:** [Policy Name]
+- **Description:** [Detailed Description]
 - **Effective Date:** 2024-08-01
-- **Policy Owner:** [Policy Owner Name]
+- **Business Owner:** [Rule Definition Business Owner]
 
 ## 4. Business Rule Information
 - **Rule ID:** R001
 - **Rule Name:** [Rule Name]
 - **Rule Description:** [Detailed Description]
-- **Related Policy ID:** P001
+- **Related Policy ID (if applicable):** P001
 - **Rule Conditions:**
   - **Condition 1:** [Condition Description]
   - **Condition 2:** [Condition Description]
