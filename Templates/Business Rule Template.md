@@ -11,26 +11,26 @@
 ## 2. Business Process Information
 - **Process Name:** [Process Name]
 - **Description:** [Brief Description]
+- **Business Function:** [Brief Description]
 - **Stakeholders:** [List of Stakeholders]
 
 ## 3. Rule Definition Information
-- **Rule Definition ID:** P001
+- **Rule ID:** [Rule Definition ID]
 - **Rule Definition Name:** [Name]
 - **Link:** [Link to Rule Definition document]
 - **Effective Date:** 2024-08-01
 - **Business Owner:** [Rule Definition Business Owner]
 
 ## 4. DMN Rule Information
-- **Rule ID:** [Rule Definition ID]
-- **Rule Name:** [Rule Name]
-- **Rule Description:** [Detailed Description]
+- **DMN Rule ID:** [Rule Definition ID]
+- **DMN Rule Name:** [Rule Name]
+- **DMN Rule Description:** [Detailed Description]
 - **Rule Conditions:**
   - **Condition 1:** [Condition Description]
   - **Condition 2:** [Condition Description]
 - **Rule Actions:**
   - **Action 1:** [Action Description]
   - **Action 2:** [Action Description]
-- **Business Impact:** [Description of Impact]
 - **Rule Author:** [Rule Author Name]
 
 ## 5. DMN Rule Assets
